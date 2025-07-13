@@ -112,6 +112,7 @@ st.markdown("""
         box-shadow: 0 2px 8px rgba(244, 67, 54, 0.2);
     }
     
+            
     .chat-container {
         max-width: 800px;
         margin: auto;
