@@ -115,8 +115,8 @@ st.markdown("""
     .chat-container {
         max-width: 800px;
         margin: auto;
-        padding: 20px;
-        min-height: 400px;
+        padding: 0 0 10px 0;
+        min-height: 0;
     }
     
     .typing-indicator {
